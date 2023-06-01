@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:wght@300;400;500;600;700&display=swap');
+@import "reset.scss";
+
+:root {
+  --primary: #5288C1;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #212329;
+  color: white;
+  font-family: 'Source Code Pro', monospace;
+}
+
+button {
+  cursor: pointer;
+}

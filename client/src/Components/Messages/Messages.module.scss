@@ -1,0 +1,13 @@
+.messages {
+  background: #131517;
+  height: 400px;
+  overflow-y: auto;
+}
+
+.message {
+  background: #1E1F25;
+  padding: .6rem;
+  display: inline-block;
+  margin: .3rem;
+  border-radius: 10px;
+}

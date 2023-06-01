@@ -1,0 +1,19 @@
+.idea
+client/.idea
+server/.idea
+
+client/node_modules
+server/node_modules
+
+client/docker-compose.yml
+client/.dockerignore
+
+client/dist
+server/dist
+
+client/.env
+server/.env
+# Logs
+logs
+*.log
+npm-debug.log*
